@@ -1,0 +1,16 @@
+{
+    "name":"20501a05",
+    "version":"0.1.1",
+    "main":"calci",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/urmika2002/20501a05.git"
+    },
+    "keywords": [
+    "20501a05"
+    ],
+    "dependencies": {},
+    "engines": {
+    "node": "*"
+    }
+}
